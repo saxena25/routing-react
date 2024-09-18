@@ -1,0 +1,12 @@
+.users{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+
+.all-users{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  width: 40rem;
+  margin: auto;
+  justify-items: center;
+}
